@@ -1,7 +1,7 @@
 python:
     version: 3.8.2
 git:
-    version: 1:2.25.1
+    version: 2.37.3
 cmake:
     version: 3.20.5
 ninja:
@@ -15,7 +15,7 @@ west:
 gn:
     version: e55664a01f6ee92762210d0c01b13552f8117e11
 nanopb:
-    version: 0.4.4
+    version: 0.4.6
 zephyr-sdk:
     version: 0.15.2
     architectures: # https://github.com/zephyrproject-rtos/sdk-ng/releases/tag/v0.15.2
